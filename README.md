@@ -1,2 +1,3 @@
 # test-yolo
-This PR is created to test the YOLO GitHub achievement. It updates the README with a test line and will be merged without a code review.
+Practicing GitHub pull requests by merging a simple change without a code review.
+
